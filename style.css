@@ -1,0 +1,64 @@
+body{
+    margin: auto;
+    max-width: 60%; 
+
+}
+   
+
+header{
+  text-align:center;
+}
+
+img{
+    border-radius:5px;
+    border:1px solid black;
+        
+}
+
+
+
+
+
+table{
+    text-align:left;
+    border-collapse: collapse;
+    width:100%; 
+}
+
+table,th,td{
+    border:1px solid black;
+     
+}
+
+ .story  p  b{
+     display:block;
+     padding-top:10px;
+     color:green;
+
+}
+
+.hobby ul{
+    list-style-type: square;
+}
+
+a{
+    display:block;
+    width:65px;
+    height:30px;
+    text-decoration:none;
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding: 15px,15px;
+     
+}
+
+a:hover{
+    background-color:gray;
+}
+
+footer{
+    display:flex;
+     
+}
+ 
