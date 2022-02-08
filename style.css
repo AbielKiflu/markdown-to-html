@@ -56,11 +56,12 @@ a:hover,a:active{
 
 footer div{
 padding:10px;
+
 }
 
 footer{
     justify-content: center;
     display:flex;
-     
+    margin-bottom: 10px;
 }
  
