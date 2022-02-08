@@ -42,22 +42,24 @@ table,th,td{
 }
 
 a{
-    display:block;
-    width:65px;
-    height:30px;
-    text-decoration:none;
-    background-color:black;
-    color:white;
-    text-align: center;
-    padding: 15px,15px;
-     
+    background-color: black;
+    color: white;
+    padding:8px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    
 }
 
-a:hover{
-    background-color:gray;
+a:hover,a:active{
+    background-color:black;
+}
+
+footer div{
+padding:10px;
 }
 
 footer{
+    justify-content: center;
     display:flex;
      
 }
